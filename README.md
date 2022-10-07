@@ -54,7 +54,7 @@
 
 - [⚡️PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) 🔥🔥🔥
 
-  - 🔥 **2022.8.18：发布FastDeploy [release/v0.2.0](https://github.com/PaddlePaddle/FastDeploy/)** 
+  - 🔥 **2022.8.18：FastDeploy [release/v0.2.0](https://github.com/PaddlePaddle/FastDeploy/)** 
     - **New server upgrade: a set of SDK, covering all models**
       - Released an easy-to-use, high-performance inference engine SDK based on x86 CPU and NVIDIA GPU, greatly improving inference speed
       - Support ONNXRuntime, Paddle Inference, TensorRT inference engine
