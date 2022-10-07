@@ -48,26 +48,26 @@
   <img src='logs/test_lite_fast_style_transfer_candy.jpg' height="90px" width="90px">
 </div>  
 
-<p align="center">English | <a href="README.zh.md">中文文档</a> | <a href=#lite.ai.toolkit-Build-MacOS>MacOS</a> | <a href=#lite.ai.toolkit-Build-Linux>Linux</a> | <a href=#lite.ai.toolkit-Build-Windows>Windows</a> </p>
+<p align="center">English | <a href=#lite.ai.toolkit-Build-MacOS>MacOS</a> | <a href=#lite.ai.toolkit-Build-Linux>Linux</a> | <a href=#lite.ai.toolkit-Build-Windows>Windows</a> </p>
 
 ----
 
-- [⚡️PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) 近期更新 🔥🔥🔥
+- [⚡️PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) 🔥🔥🔥
 
   - 🔥 **2022.8.18：发布FastDeploy [release/v0.2.0](https://github.com/PaddlePaddle/FastDeploy/)** 
-    - **服务端全新升级：一套SDK，覆盖全量模型**
-      - 发布基于x86 CPU、NVIDIA GPU的易用、高性能推理引擎SDK，推理速度大幅提升
-      - 支持ONNXRuntime、Paddle Inference、TensorRT推理引擎
-      - 支持YOLOv7、YOLOv6、YOLOv5、PP-YOLOE等目标检测最优模型及[Demo示例](https://github.com/PaddlePaddle/FastDeploy/tree/develop/examples/vision/detection/)
-      - 支持人脸检测、人脸识别、实时人像抠图、图像分割等40+重点模型及[Demo示例](https://github.com/PaddlePaddle/FastDeploy/tree/develop/examples/vision/)
-      - 支持Python API 和 C++ API
-      - 开发AI模型部署代码量减少～60%
-    - **端侧继ARM CPU后，延伸至瑞芯微、晶晨、恩智浦等NPU能力**
-      - 发布轻量化目标检测 [Picodet-NPU部署Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo/tree/develop/object_detection/linux/picodet_detection) ，提供低门槛INT8全量化能力
-    - **同时支持Python和C++两种语言** 
-      - 支持 `pip install` 一行命令安装，Linux/Mac/Windows 快速使用
-      - 提供 Linux/Mac/Windows，CPU/GPU 等多平台多硬件支持的C++预编译库
-- 更多详情请跳转✋👉[⚡️PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) 🎉🎉
+    - **New server upgrade: a set of SDK, covering all models**
+      - Released an easy-to-use, high-performance inference engine SDK based on x86 CPU and NVIDIA GPU, greatly improving inference speed
+      - Support ONNXRuntime, Paddle Inference, TensorRT inference engine
+      - Support YOLOv7, YOLOv6, YOLOv5, PP-YOLOE and other target detection optimal models and [Demo example](https://github.com/PaddlePaddle/FastDeploy/tree/develop/examples/vision/detection/)
+      - Support 40+ key models such as face detection, face recognition, real-time portrait matting, image segmentation, etc. and [Demo example](https://github.com/PaddlePaddle/FastDeploy/tree/develop/examples/vision/)
+      - Supports Python API and C++ API
+      - The amount of code for developing AI model deployment is reduced by ~60%
+    - **After the ARM CPU, the end-to-end extends to NPU capabilities such as Rockchip, Amlogic, NXP, etc.**
+      - Released lightweight target detection [Picodet-NPU deployment Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo/tree/develop/object_detection/linux/picodet_detection) ，Provide low-threshold INT8 full quantification capabilities
+    - **Supports both Python and C++ languages** 
+      - Support 'pip install' one-line command installation, quick use on Linux/Mac/Windows
+      - Provides C++ precompiled libraries for Linux/Mac/Windows, CPU/GPU and other multi-platform and multi-hardware support
+- For more details, please visit ✋👉[⚡️PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) 🎉🎉
 ----
 
 ## Core Features 👏👋
